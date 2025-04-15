@@ -1,0 +1,29 @@
+.category-herocontainer {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  margin-left: 30px;
+  padding-left: 20px; 
+  
+}
+
+.image-card {
+  max-width: 335.4px;
+  max-height: 195px;
+  margin: 10px;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+
+.image-card img {
+  width: 100%;  
+  height: auto; 
+  border-radius: 8px; 
+}
+
+
+.container {
+  margin-bottom: 20px;
+}

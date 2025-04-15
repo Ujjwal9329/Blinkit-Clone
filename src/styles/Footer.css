@@ -1,0 +1,40 @@
+.footer-title,.categories-title{
+ font-size: 18px;
+ font-weight: 600;
+ font-family: Okara;
+ color: #000000;
+}
+
+.see-all-link a{
+ color: rgb(12, 131, 31);
+ font-size: 16px;
+}
+
+.link{
+ color: inherit;
+ cursor: pointer;
+}
+
+.icons{
+ width: 35px;
+ height: 35px;
+ border-radius: 50%;
+ background-color: #000;
+ color: #fff;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.copy-rights{
+ font-size: 14px;
+}
+
+.downloadApp{
+ font-size: 14px;
+ font-weight: 700;
+ cursor: pointer;
+ color: #000;
+
+}
+

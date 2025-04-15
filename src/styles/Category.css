@@ -1,0 +1,22 @@
+.category-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  overflow: auto hidden;
+  scrollbar-width: none;
+}
+
+.image-card {
+  width: 334.4px;
+  height: 195px;
+  cursor: pointer;
+}
+
+.category-card-img {
+  border-radius: 16px;
+  object-fit: fill;
+  cursor: default;
+}
