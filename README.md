@@ -13,7 +13,8 @@ A responsive clone of the Blinkit website built using **HTML**, **CSS**, and **J
 
 ## 📸 Preview
 
-![Blinkit Preview](./preview.png) <!-- Replace with actual image path or link -->
+![image](https://github.com/user-attachments/assets/4ccab113-9fd0-4aff-9999-a360781ceb9a)
+
 
 ## 🚀 Tech Stack
 
